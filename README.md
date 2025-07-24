@@ -60,7 +60,7 @@ ollama run deepseek-r1:1.5b
 
 ### 4. Launch the App
 ```bash
-streamlit run app.py
+streamlit run deep_rag.py
 ```
 
 ---
